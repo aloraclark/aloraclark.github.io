@@ -1,33 +1,34 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"Favorite Local Restaurants": [{
+		"Name": "Monkey King",
+		"Type of Food": "Chinese",
+		"Location": "Oakland, CA",
+		"Favorite Dish": "General Tso Bone-in Chicken Wings"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Name": "Endless Summer Sweets",
+		"Type of Food": "Novelty/Fair Food",
+		"Location": "Berkeley, CA",
+		"Favorite Dish": "Fresh Strawberry Mini Funnel Cake"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Name": "Italy on Gilman",
+		"Type of Food": "Italian",
+		"Location": "Berkeley, CA",
+		"Favorite Dish": "Fettuccine Alfredo"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Name": "Touch of Soul",
+		"Type of Food": "Soul Food",
+		"Location": "Emeryville, CA",
+		"Favorite Dish": "Fried Catfish"
+
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Name": "Public Market",
+		"Type of Food": "Variety",
+		"Location": "Emeryville, CA",
+		"Favorite Dish": "Peach Slushie w/ Strawberry Popping Boba from Baby Cafe"
 	}]
 	
 }
